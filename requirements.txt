@@ -1,0 +1,6 @@
+pytorch-lightning
+transformers
+torch
+datasets
+rouge_score
+numpy
